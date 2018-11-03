@@ -1,7 +1,6 @@
-# React Starter
+# To Do List
 
-> This repo contains boilerplate code to aid in the creation of a new React app with Redux. Follow the below setup instructions to get started.
-
+> To do list built with ReactJS
 ### Setup Instructions
 
 > 1. Fork this repo
